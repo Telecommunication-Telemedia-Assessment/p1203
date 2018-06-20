@@ -1,8 +1,8 @@
-# P.1203
+# P.1203 -- Repositories
 
 beside the codec extension, see https://github.com/Telecommunication-Telemedia-Assessment/itu-p1203-codecextension
 we also developed a reference implementation that is hosted at https://github.com/itu-p1203/itu-p1203
-and a open-dataset for this model https://github.com/itu-p1203/open-dataset
+and an open-dataset for this model https://github.com/itu-p1203/open-dataset
 
 If you use these software in your research, please include the link to the corresponding repositories and 
 cite the following publication:
