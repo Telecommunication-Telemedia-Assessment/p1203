@@ -1,0 +1,28 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+$blue: #00AEEF;
+$yellow: #FFE300;
+$magenta: #EC008C;
+$violet: #292B87;
+$green: #009346;
+$lightGrey: #BCBEC0;
+$darkGrey: #414042;
+$white: #FFFFFF;
+
+.page-header {
+    background-color: $darkGrey;
+    background-image: linear-gradient(120deg, black, $darkGrey);
+}
+
+.main-content {
+    h1, h2, h3, h4 {
+        color: $blue;
+    }
+}
+
+a {
+    color: $blue
+}

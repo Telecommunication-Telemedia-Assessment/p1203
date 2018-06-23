@@ -17,7 +17,7 @@ An [open dataset](https://github.com/itu-p1203/open-dataset) was created for thi
 
 The [Audiovisual Technology Group](https://www.tu-ilmenau.de/en/audio-visual-technology/) group is part of the Institute of Media Technology at TU Ilmenau, Germany, headed by Prof. Alexander Raake. The Audiovisual Technology Group (AVT) deals with the function, application and perception of audio and video equipment and systems.
 
-The software and dataset was developed together with partners from Deutsche Telekom AG, Technische Universität Berlin, LM Ericsson, and NETSCOUT.
+The software was developed together with partners from Deutsche Telekom AG, Technische Universität Berlin, LM Ericsson.
 
 ## What is the license?
 
@@ -29,6 +29,7 @@ If you use the software or data in your research, please include the link to the
 
 * Raake, A., Garcia, M.-N., Robitza, W., List, P., Göring, S., & Feiten, B. (2017). A bitstream-based, scalable video-quality model for HTTP adaptive streaming: ITU-T P.1203.1. In 2017 Ninth International Conference on Quality of Multimedia Experience (QoMEX). Erfurt.
 
+        {% raw  %}
         @inproceedings{Raake2017,
         address = {Erfurt},
         author = {Raake, Alexander and Garcia, Marie-Neige and Robitza, Werner and List, Peter and Göring, Steve and Feiten, Bernhard},
@@ -41,16 +42,19 @@ If you use the software or data in your research, please include the link to the
         url = {http://ieeexplore.ieee.org/document/7965631/},
         year = {2017}
         }
+        {% endraw  %}
 
 
 * Robitza, W., Göring, S., Raake, A., Lindegren, D., Heikkilä, G., Gustafsson, J., List, P., Feiten, B., Wüstenhagen, U., Garcia, M.-N., Yamagishi, K., Broom, S. (2018). HTTP Adaptive Streaming QoE Estimation with ITU-T Rec. P.1203 – Open Databases and Software. In 9th ACM Multimedia Systems Conference. Amsterdam.
 
+        {% raw  %}
         @inproceedings{Robitza2018,
         address = {Amsterdam},
-        author = {Robitza, Werner and G{\"{o}}ring, Steve and Raake, Alexander and Lindegren, David and Heikkil{\"{a}}, Gunnar and Gustafsson, J{\"{o}}rgen and List, Peter and Feiten, Bernhard and W{\"{u}}stenhagen, Ulf and Garcia, Marie-Neige and Yamagishi, Kazuhisa and Broom, Simon},
+        author = {Robitza, Werner and Göring, Steve and Raake, Alexander and Lindegren, David and Heikkilä, Gunnar and Gustafsson, Jörgen and List, Peter and Feiten, Bernhard and Wüstenhagen, Ulf and Garcia, Marie-Neige and Yamagishi, Kazuhisa and Broom, Simon},
         booktitle = {9th ACM Multimedia Systems Conference},
         doi = {10.1145/3204949.3208124},
         isbn = {9781450351928},
         title = {{HTTP Adaptive Streaming QoE Estimation with ITU-T Rec. P.1203 – Open Databases and Software}},
         year = {2018}
         }
+        {% endraw %}
